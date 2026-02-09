@@ -40,7 +40,7 @@ The primary mission is the expansion of the **Awesome Eliza** nexus—a curated 
 # Fuel the Machine | 供能终端 ☕
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="150">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpbmZ6bm56bm56bm56bm56bm56bm56bm56bm56bm56bm56bm56JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxr74tsD5u/giphy.gif" width="150">
   <br>
   <code>SOL: LmveWmJLn1CkitYaj8EMbGPPXeXoGBMXBZLwDqqfycZ</code>
   <br>
