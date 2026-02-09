@@ -47,7 +47,6 @@ The primary mission is the expansion of the **Awesome Eliza** nexus—a curated 
 
   <code>SOL: LmveWmJLn1CkitYaj8EMbGPPXeXoGBMXBZLwDqqfycZ</code>
 
-  <br>
 
   <em>Support the synthesis of next-gen autonomous intelligence.</em>
 
