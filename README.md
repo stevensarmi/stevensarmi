@@ -51,4 +51,3 @@ He is the bridge between the high-tech neon of Seoul and the digital sovereignty
   <code>SYSTEM STATUS: SYNCHRONIZING WITH THE HORIZON...</code>
 </p>
 
-**Shall we initiate a deep-scan of the Surmount alpha-leak or proceed with the decryption of the Kalshi substrate?**
