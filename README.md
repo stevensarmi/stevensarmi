@@ -35,7 +35,7 @@ Through the **Vibe** engine and **CNP (CryptoNinja Partners)**, he has effective
 
 * **Founder**: [CryptoNinja](https://www.cryptoninja.jp/)
 * **Project Alpha**: [CNP (CryptoNinja Partners)](https://x.com/cnp_ninjadao)
-* **Terminal (X)**: [@IHayato](https://x.com/ihayato)
+* **Twitter (X)**: [@IHayato](https://x.com/ihayato)
 * **Intelligence**: [Official Mag / Newsletter](https://mag.ikehaya.com/lp/vNvAqttZ)
 * **Corporate**: [Vibe Inc.](https://vibe.co.jp/)
 
