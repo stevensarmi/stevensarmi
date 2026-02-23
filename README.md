@@ -14,7 +14,7 @@
 
 ---
 
-### $\color{#FF3B30}{\text{⌈ 👋 About Me ⌋}}$
+### $\color{#FF3B30}{\text{⌈  About Me ⌋}}$
 
 I’m a retired VC and Finance Exec turned full-time builder. After years of running **$200B+** asset management platforms, I’ve returned to my true love: **Computer Science**. 💻
 
@@ -22,7 +22,7 @@ Nowadays, I'm deep in the world of **Robotics**, **AI**, and **Open Source**. Wh
 
 ---
 
-### $\color{#FF3B30}{\text{⌈ 🛠️ What I'm Building ⌋}}$
+### $\color{#FF3B30}{\text{⌈  What I'm Building ⌋}}$
 
 * **🤖 Robotics & AI**: Lead maintainer for **OpenClaw** — an open framework for personal AI agents and hardware.
 * **🚜 Smart Farming**: Applying tech to the physical world through agricultural automation and tractor hacking. 
@@ -30,24 +30,24 @@ Nowadays, I'm deep in the world of **Robotics**, **AI**, and **Open Source**. Wh
 
 ---
 
-### $\color{#FF3B30}{\text{⌈ 🏛️ The Track Record ⌋}}$
+### $\color{#FF3B30}{\text{⌈  The Track Record ⌋}}$
 
 * **🚀 Motive Ventures**: Led stage-agnostic fintech investments as a Partner.
 * **🏢 Santander Asset Management**: Served as Global CEO for a $200B+ platform.
-* **💰 Santander InnoVentures**: Co-founded and managed a $400M Fintech VC fund.
-* **📈 The Classics**: Alum of **Bridgewater Associates**, **McKinsey & Co.**, and **Accenture**.
+* ** Santander InnoVentures**: Co-founded and managed a $400M Fintech VC fund.
+* ** The Classics**: Alum of **Bridgewater Associates**, **McKinsey & Co.**, and **Accenture**.
 
 ---
 
-### $\color{#FF3B30}{\text{⌈ 🚀 Featured Projects ⌋}}$
+### $\color{#FF3B30}{\text{⌈  Featured Projects ⌋}}$
 
 * **🦀 [OpenClaw](https://github.com/openclaw/openclaw)**: The "Lobster Way" for AI agents. Run them anywhere, on any OS.
 * **🦾 [Clawdius](https://github.com/belimad/clawdius)**: My personal robotics project for domestic automation.
-* **🗳️ DaoVote**: Exploring the future of decentralized governance and coordination.
+* ** DaoVote**: Exploring the future of decentralized governance and coordination.
 
 ---
 
-### $\color{#FF3B30}{\text{⌈ 📡 Get in Touch ⌋}}$
+### $\color{#FF3B30}{\text{⌈  Get in Touch ⌋}}$
 
 * **Twitter (X)**: [@belimad](https://x.com/belimad) 🐦
 * **GitHub**: [@belimad](https://github.com/belimad) 💾
