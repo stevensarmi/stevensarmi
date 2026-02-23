@@ -51,7 +51,7 @@ Nowadays, I'm deep in the world of **Robotics**, **AI**, and **Open Source**. Wh
 
 * **Twitter (X)**: [@belimad](https://x.com/belimad) 🐦
 * **GitHub**: [@belimad](https://github.com/belimad) 💾
-* **On-Chain**: `belimad.sol` | `belimad.eth` ⛓️
+
 
 ---
 
